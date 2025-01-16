@@ -21,7 +21,7 @@ User can sort the card by using 6 ways
 The project is developed using Functional programming, C++ language, runs on CLI, and only requires iostream
 
 There is a [085_TI2023C_Tugas Tree.docx](https://github.com/user-attachments/files/18420976/085_TI2023C_Tugas.Tree.docx)
-written in Bahasa Indonesia that you can read from.
+written in *Bahasa Indonesia* that you can read from.
 
 ## :arrow_forward: **Installation and Usage** 
 To install this project, please proceed these steps:
